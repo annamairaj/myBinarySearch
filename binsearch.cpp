@@ -1,9 +1,8 @@
 using namespace std;
 #include <iostream>
-
-// CS311 Ho  Fall24 binsearch.cpp
-// The Algorithm is in Notes-4A so copy and paste it here!!!!!
-
+// Name: Anna Mairaj
+// Compiler: g++
+// --------------------------------------------
 //Algorithm
 //procedure binarySearch (int L[], x)
 //repeat
@@ -18,15 +17,6 @@ using namespace std;
 //until first > last
 //return -1
 //end procedure 
-//end procedure
-
-// On Empress, control-rightclick will bring up the paste option.
-// NEVER delete my comments!!!
-//--------------------------------------------
-// CS311 HW2P1 Binary Search
-// Name: Anna Mairaj
-// Compiler: g++
-// --------------------------------------------
 
 // x is what we are looking for in L; first and last are slot numbers 
 // This recursive function returns the slot number in which x was found
